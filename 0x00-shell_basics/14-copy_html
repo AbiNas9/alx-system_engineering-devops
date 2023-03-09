@@ -1,3 +1,2 @@
-#!/bin/bash
+I!/bin/bash
 cp -u ./*.html ../
-
